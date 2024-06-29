@@ -1,6 +1,7 @@
 # Random-Ball-Collecting-Game
-This was a project just to learn more about pygame and i tried new stuff in this too such as
--sprite collision
+This was a project just to learn more about pygame and i tried new stuff in this too such as:
+
+- sprite collision
 - creating boundary for sprites
 - sound design
 - changing program icon
